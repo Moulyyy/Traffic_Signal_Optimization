@@ -31,7 +31,7 @@ Using **SUMO simulation**, **TraCI real-time control**, and **E1 lane detectors*
 ---
 
 ### 🔹 Static Model — Queue Length Output
-![Static Queue Length Graph](<images/Staticgraph.jpege>)
+![Static Queue Length Graph](<images/Staticgraph.jpeg>)
 
 - Avg Queue ≈ **7.77 vehicles**
 - Max Queue = **12**
